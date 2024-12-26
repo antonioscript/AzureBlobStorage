@@ -1118,11 +1118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NewProjects\\Blob\\Blob.csproj",
+      "projectUniqueName": "C:\\NewProjects\\AzureBlobStorage\\Blob\\Blob.csproj",
       "projectName": "Blob",
-      "projectPath": "C:\\NewProjects\\Blob\\Blob.csproj",
+      "projectPath": "C:\\NewProjects\\AzureBlobStorage\\Blob\\Blob.csproj",
       "packagesPath": "C:\\Users\\Antônio Rocha\\.nuget\\packages\\",
-      "outputPath": "C:\\NewProjects\\Blob\\obj\\",
+      "outputPath": "C:\\NewProjects\\AzureBlobStorage\\Blob\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

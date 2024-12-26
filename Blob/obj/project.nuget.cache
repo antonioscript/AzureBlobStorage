@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F9pqc9k5DU1rzXXVCrh5F13cmtvGxYhrNkITySzXxZw4aVaPuApASeGwvT+j9tZJbG+XDq5hoah5SbFuctY6gg==",
+  "dgSpecHash": "kq0b78vOccK9/mk+ZMmfpCzkBqO1P+FR3t4U7vs2vIDFHBGzWhj+HjktAbAY6Kz7i7QMtbcx7jWl1s/dQSSXcA==",
   "success": true,
-  "projectFilePath": "C:\\NewProjects\\Blob\\Blob.csproj",
+  "projectFilePath": "C:\\NewProjects\\AzureBlobStorage\\Blob\\Blob.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Antônio Rocha\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\Antônio Rocha\\.nuget\\packages\\azure.storage.blobs\\12.23.0\\azure.storage.blobs.12.23.0.nupkg.sha512",

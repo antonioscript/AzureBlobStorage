@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blob")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a649573e99a13d4fd1b70da74df609dc9fc0b7ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blob")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blob")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
